@@ -1,5 +1,7 @@
 user = {
-    name: "Sara",
-    email: "something@something.com"
+    "name" : "Sara",
+    "email" : "something@something.com"
 }
+
+
 
